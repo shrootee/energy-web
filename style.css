@@ -1,0 +1,666 @@
+
+
+
+body {
+  zoom: 0.5;
+}
+
+.end{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 50px;
+}
+
+.whatrene{
+    font-size: 70px;
+}
+
+
+
+.whatdev{
+
+    font-size: 70px;
+    margin-top: 50px;
+    margin-left: 50px;
+    
+}
+
+.whatresearch{
+    font-size: 70px;
+    margin-top: 5opx;
+    margin-left: 50px;
+}
+
+.what{
+    font-size: 30px;
+    margin-left: 30px;
+    
+}
+
+.generation {
+    font-size: 70px;
+    padding-left: 20px;
+    padding-top: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+.container {
+    width: 100%;
+    height: 400px;
+    background-image: url("nasa-Q1p7bh3SHj8-unsplash.jpg");
+    background-size: cover;
+    background-position: center;
+    color: white;
+   
+
+    
+}
+
+.container2 {
+    width: 100;
+    height: 400px;
+    background-image: url("nasa-Q1p7bh3SHj8-unsplash.jpg");
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+   
+.ele1 {
+    width: 500px;
+    height:300px;
+    background-color: rgb(11, 10, 10);
+    margin-top: 100px;
+    background-image: url(sun.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 50px;
+    transition: all 0.3s ease; /* smooth hover ke liye */
+}
+    
+
+.ele1:hover {
+    transform: scale(1.01); /* thoda zoom */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4); /* halka shadow */
+    
+}
+
+
+.ele2 {
+    width: 500px;
+    height:300px;
+    background-color: rgb(11, 10, 10);
+    margin-top: 100px;
+    background-image: url(wind.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    transition: all 0.3s ease;
+}
+
+    .ele2:hover {
+    transform: scale(1.01); /* thoda zoom */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4); /* halka shadow */
+    
+}
+
+
+
+
+
+
+.ele10 {
+    width: 500px;
+    height:300px;
+    background-color: rgb(11, 10, 10);
+    margin-top: 100px;
+    background-image: url(water.jpg);
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    transition: all 0.3s ease;
+    
+}
+
+.ele10:hover {
+    transform: scale(1.01); /* thoda zoom */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4); /* halka shadow */
+    
+}
+
+
+.ele4 {
+    width: 500px;
+    height:300px;
+    background-color: rgb(11, 10, 10);
+    margin-top: 100px;
+    background-image: url(geoe.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    transition: all 0.3s ease;
+    
+}
+
+.ele4:hover {
+    transform: scale(1.01); /* thoda zoom */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4); /* halka shadow */
+    
+}
+
+
+
+.ele5 {
+    width: 500px;
+    height:300px;
+    background-color: rgb(11, 10, 10);
+    margin-top: 100px;
+    background-image: url(biomass.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    transition: all 0.3s ease;
+    
+}
+
+.ele5:hover {
+    transform: scale(1.01); /* thoda zoom */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4); /* halka shadow */
+    
+}
+
+
+
+.ele6 {
+    width: 500px;
+    height:300px;
+    background-color: rgb(11, 10, 10);
+    margin-top: 100px;
+    background-image: url(hydrogen.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    transition: all 0.3s ease;
+    
+}
+
+.ele6:hover {
+    transform: scale(1.01); /* thoda zoom */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4); /* halka shadow */
+    
+}
+
+
+
+.ele7 {
+    width: 500px;
+    height:300px;
+    background-color: rgb(11, 10, 10);
+    margin-top: 100px;
+    background-image: url(friction.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    transition: all 0.3s ease;
+    
+}
+
+.ele7:hover {
+    transform: scale(1.01); /* thoda zoom */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4); /* halka shadow */
+    
+}
+
+
+
+.ele8 {
+    width: 500px;
+    height:300px;
+    background-color: white;
+    margin-top: 100px;
+   transition: all 0.3s ease;
+    background-size: cover;
+    background-repeat: no-repeat;
+        
+}
+
+.ele8:hover {
+    transform: scale(1.01); /* thoda zoom */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4); /* halka shadow */
+    
+}
+
+
+
+
+.quote {
+   -webkit-backdrop-filter: blur(4px);
+   backdrop-filter: blur(4px);
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-size: 12px;
+   font-weight: 100;
+   ;
+}
+
+
+
+
+
+
+ .header {
+    width: 100%;
+    height :90px;
+    background-color: white;
+    display: inline-table;
+    display: flex;
+    margin-top: 70px;
+    
+    
+ }
+
+ .header2 {
+    width: 100%;
+    
+    background-color: white;
+    display: inline-table;
+    display: flex;
+    margin-top: 50px;
+    font-size: 20px;
+    
+ }
+
+ .heading2 {
+    font-size: 20px;
+    padding-left: 20px;
+    
+    
+ }
+
+ .iconbar {
+    width: 45px;
+    height: 45px;
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 40px;
+    
+ }
+
+ 
+  
+
+ p {
+    font-size: 30px;
+    padding: 20px;
+    text-align: justify;
+    margin-left: 50px;
+ }
+
+ .box1 {
+    width: 220px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    font-size: 35px;
+    border: 2px solid rgb(154, 152, 152);
+    padding-left: 20px;
+    padding-top: 15px;
+    text-decoration: none;
+    text-align: center;
+ }
+.box2 {
+    width: 200px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    font-size: 35px;
+    border: 2px solid rgb(154, 152, 152);
+    padding-left: 20px;
+    padding-top: 15px;
+    text-decoration: none;
+    text-align: center;
+    
+
+}
+
+.box3 {
+    width: 400px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    font-size: 35px;
+    border: 2px solid rgb(154, 152, 152);
+    padding-left: 20px;
+    padding-top: 15px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.box4 {
+    width: 60px;
+    height: 18px;
+    background-color: rgb(248, 245, 245);
+    background-image: url("Polygon.png");
+}
+
+.box42 {
+    width: 60px;
+    height: 18px;
+    background-color: rgb(248, 245, 245);
+    background-image: url("Polygon.png");
+    
+}
+
+
+
+
+    
+.indicator {
+    display: flex;
+    
+}
+
+.elements1 {
+    gap: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+.element1text {
+    font-size: 30px;
+    
+    display: flex;
+    
+}
+
+.title1{
+    font-size: 40px;
+    padding-left: 100px;
+    
+    
+}
+
+.title2{
+    font-size: 40px;
+    padding-left: 400px;
+    
+}
+.title3{
+    font-size: 40px;
+    padding-left: 400px;
+    
+}
+
+.title4{
+    font-size: 40px;
+    padding-left: 400px;
+    
+}
+
+.element2text {
+    font-size: 30px;
+    
+    display: flex;
+    
+}
+
+.title5{
+    font-size: 40px;
+    padding-left: 100px;
+}
+
+.title6{
+    font-size: 40px;
+    padding-left: 350px;
+}
+.title7{
+    font-size: 40px;
+    padding-left: 340px;
+}
+
+.title8{
+    font-size: 40px;
+    padding-left: 400px;
+}
+.elements2 {
+    gap: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+ 
+.space {
+    height: 800px;
+}
+
+.solarimg {
+    width: 1100px;
+    height: 600px;
+    background-image: url("sun.jpg");
+    background-size: cover;
+    background-position: center;
+    margin-left: 200px;
+    margin-right: 150px;
+    
+}
+.solartext {
+    font-size: 35px;
+    width: 1300px;
+    height: 700px;
+    margin-left: 50px;
+    
+    
+}
+.solarh {
+    font-size: 60px;
+    margin-left: 30px;
+}
+
+.imginfo {
+    display: flex;
+}
+
+.imgtext {
+    display: flex;
+}
+
+.solartech {
+    font-size: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.howused {
+    font-size: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.windadv{
+    font-size: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+.hydroadv{
+    font-size: 35px;
+    margin-left: 50px;
+    margin-top: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.geothermaladv{
+    font-size: 35px;
+    margin-left: 50px;
+    margin-top: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.biomassadv{
+
+    font-size: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+    .hydrogenadv{
+         font-size: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+
+.windimg {
+    width: 1100px;
+    height: 600px;
+    background-image: url("wind.jpg");
+    background-size: cover;
+    background-position: center;
+    margin-left: 200px;
+    margin-right: 150px;
+    
+}
+
+.windtext {
+    font-size: 35px;
+    width: 1300px;
+    height: 700px;
+    margin-left: 50px;
+    
+    
+}
+
+.windh {
+    font-size: 60px;
+    margin-left: 30px;
+}
+
+.hydroimg {
+    width: 1100px;
+    height: 600px;
+    background-image: url("water.jpg");
+    background-size: cover;
+    background-position: bottom;
+    margin-left: 200px;
+    margin-right: 150px;
+    
+}
+
+.hydrotext {
+    font-size: 35px;
+    width: 1300px;
+    height: 700px;
+    margin-left: 50px;
+    
+    
+}
+
+.hydroh {
+    font-size: 60px;
+    margin-left: 30px;
+}
+
+
+
+.geoimg {
+    width: 1100px;
+    height: 600px;
+    background-image: url("geoe.jpg");
+    background-size: cover;
+    background-position: center;
+    margin-left: 200px;
+    margin-right: 150px;
+    
+}
+
+.geotext {
+    font-size: 35px;
+    width: 1300px;
+    height: 700px;
+    margin-left: 50px;
+    
+    
+}
+
+.geoh {
+    font-size: 60px;
+    margin-left: 30px;
+}
+
+.geomassimg {
+    width: 1100px;
+    height: 600px;
+    background-image: url("biomass.jpg");
+    background-size: cover;
+    background-position: center;
+    margin-left: 200px;
+    margin-right: 150px;
+    
+}
+
+.geomasstext {
+    font-size: 35px;
+    width: 1300px;
+    height: 700px;
+    margin-left: 50px;
+    
+    
+}
+
+.geomassh {
+    font-size: 60px;
+    margin-left: 30px;
+}
+
+.hydrogenimg {
+    width: 1100px;
+    height: 600px;
+    background-image: url("hydrogen.jpg");
+    background-size: cover;
+    background-position: center;
+    margin-left: 200px;
+    margin-right: 150px;
+    
+}
+
+.hydrogentext {
+    font-size: 35px;
+    width: 1300px;
+    height: 700px;
+    margin-left: 50px;
+    
+    
+}
+
+.hydrogenh {
+    font-size: 60px;
+    margin-left: 30px;
+}
+
+
+.frictionimg {
+    width: 1100px;
+    height: 600px;
+    background-image: url("friction.jpg");
+    background-size: cover;
+    background-position: center;
+    margin-left: 200px;
+    margin-right: 150px;
+    
+}
+
+.frictiontext {
+    font-size: 35px;
+    width: 1300px;
+    height: 700px;
+    margin-left: 50px;
+    
+    
+}
+
+.frictionh {
+    font-size: 60px;
+    margin-left: 30px;
+}
