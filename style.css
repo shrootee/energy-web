@@ -74,13 +74,13 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     font-size: 50px;
-    transition: all 0.3s ease; /* smooth hover ke liye */
+    transition: all 0.2s ease;
 }
     
 
 .ele1:hover {
-    transform: scale(1.01); /* thoda zoom */
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4); /* halka shadow */
+    transform: scale(1.05); 
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4); 
     
 }
 
@@ -97,8 +97,8 @@ body {
 }
 
     .ele2:hover {
-    transform: scale(1.01); /* thoda zoom */
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4); /* halka shadow */
+    transform: scale(1.01); 
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4); 
     
 }
 
@@ -121,8 +121,8 @@ body {
 }
 
 .ele10:hover {
-    transform: scale(1.01); /* thoda zoom */
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4); /* halka shadow */
+    transform: scale(1.01); 
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4); 
     
 }
 
@@ -140,8 +140,8 @@ body {
 }
 
 .ele4:hover {
-    transform: scale(1.01); /* thoda zoom */
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4); /* halka shadow */
+    transform: scale(1.01); 
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4); 
     
 }
 
@@ -160,8 +160,8 @@ body {
 }
 
 .ele5:hover {
-    transform: scale(1.01); /* thoda zoom */
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4); /* halka shadow */
+    transform: scale(1.01); 
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4); 
     
 }
 
@@ -181,8 +181,8 @@ body {
 }
 
 .ele6:hover {
-    transform: scale(1.01); /* thoda zoom */
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4); /* halka shadow */
+    transform: scale(1.01); 
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4); 
     
 }
 
@@ -201,8 +201,8 @@ body {
 }
 
 .ele7:hover {
-    transform: scale(1.01); /* thoda zoom */
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4); /* halka shadow */
+    transform: scale(1.01); 
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
     
 }
 
@@ -220,8 +220,8 @@ body {
 }
 
 .ele8:hover {
-    transform: scale(1.01); /* thoda zoom */
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4); /* halka shadow */
+    transform: scale(1.01); 
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
     
 }
 
