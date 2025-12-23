@@ -65,7 +65,7 @@ body {
     color: white;
 }
    
-.ele1 {
+#ele1 {
     width: 500px;
     height:300px;
     background-color: rgb(11, 10, 10);
@@ -78,14 +78,14 @@ body {
 }
     
 
-.ele1:hover {
+#ele1:hover {
     transform: scale(1.05); 
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4); 
     
 }
 
 
-.ele2 {
+#ele2 {
     width: 500px;
     height:300px;
     background-color: rgb(11, 10, 10);
@@ -96,7 +96,7 @@ body {
     transition: all 0.3s ease;
 }
 
-    .ele2:hover {
+    #ele2:hover {
     transform: scale(1.05); 
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4); 
     
@@ -107,7 +107,7 @@ body {
 
 
 
-.ele10 {
+#ele10 {
     width: 500px;
     height:300px;
     background-color: rgb(11, 10, 10);
@@ -120,14 +120,14 @@ body {
     
 }
 
-.ele10:hover {
+#ele10:hover {
     transform: scale(1.05); 
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4); 
     
 }
 
 
-.ele4 {
+#ele4 {
     width: 500px;
     height:300px;
     background-color: rgb(11, 10, 10);
@@ -139,7 +139,7 @@ body {
     
 }
 
-.ele4:hover {
+#ele4:hover {
     transform: scale(1.05); 
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4); 
     
@@ -147,7 +147,7 @@ body {
 
 
 
-.ele5 {
+#ele5 {
     width: 500px;
     height:300px;
     background-color: rgb(11, 10, 10);
@@ -159,7 +159,7 @@ body {
     
 }
 
-.ele5:hover {
+#ele5:hover {
     transform: scale(1.05); 
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4); 
     
@@ -167,7 +167,7 @@ body {
 
 
 
-.ele6 {
+#ele6 {
     width: 500px;
     height:300px;
     background-color: rgb(11, 10, 10);
@@ -180,7 +180,7 @@ body {
     
 }
 
-.ele6:hover {
+#ele6:hover {
     transform: scale(1.05); 
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4); 
     
@@ -188,7 +188,7 @@ body {
 
 
 
-.ele7 {
+#ele7 {
     width: 500px;
     height:300px;
     background-color: rgb(11, 10, 10);
@@ -200,7 +200,7 @@ body {
     
 }
 
-.ele7:hover {
+#ele7:hover {
     transform: scale(1.05); 
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
     
@@ -208,7 +208,7 @@ body {
 
 
 
-.ele8 {
+#ele8 {
     width: 500px;
     height:300px;
     background-color: white;
@@ -219,7 +219,7 @@ body {
         
 }
 
-.ele8:hover {
+#ele8:hover {
     transform: scale(1.05); 
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
     
@@ -234,7 +234,6 @@ body {
    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
    font-size: 12px;
    font-weight: 100;
-   ;
 }
 
 
@@ -290,7 +289,7 @@ body {
     margin-left: 50px;
  }
 
- .box1 {
+ #box1 {
     width: 220px;
     height: 50px;
     background-color: black;
@@ -302,7 +301,7 @@ body {
     text-decoration: none;
     text-align: center;
  }
-.box2 {
+#box2 {
     width: 200px;
     height: 50px;
     background-color: black;
@@ -317,7 +316,7 @@ body {
 
 }
 
-.box3 {
+#box3 {
     width: 400px;
     height: 50px;
     background-color: black;
@@ -663,4 +662,18 @@ body {
 .frictionh {
     font-size: 60px;
     margin-left: 30px;
+}
+
+
+.page {
+    display: none;
+    opacity: 0;
+    transform: translateY(20px);
+    transition: 0.4s;
+}
+
+.page.active {
+    display: block;
+    opacity: 1;
+    transform: translateY(0);
 }
